@@ -61,11 +61,18 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 ## Informe como essas medidas de acessibilidade indicadas serão implementadas ou disponibilizadas de acordo com o projeto proposto:
 
-<p>Todo material de vídeo disponibilizado pelo projeto virá acompanhado de Legendas e/ou Intérprete de Libras.</p>
+<p>Para garantir a acessibilidade, todos os tutoriais de vídeo disponibilizado pelo projeto virá acompanhado de Legendas e/ou Intérprete de Libras.</p>
+
+<p>Legendas: Cada vídeo disponibilizado conterá legendas para garantir a compreensão por parte das pessoas com deficiência auditiva. Essas legendas serão precisas e sincronizadas com o áudio para oferecer uma experiência de visualização completa.</p>
+
+<p>Intérprete de Libras: Além das legendas, todos os 6 vídeos tutoriais terão a presença de um intérprete de Língua de Sinais Brasileira (Libras). Isso proporcionará acesso inclusivo a indivíduos surdos ou com deficiência auditiva que dependem da linguagem de sinais para compreender o conteúdo.</p>
+
+<p>Essas medidas serão implementadas de forma consistente em todos os materiais de vídeo descritos nos tópicos acima, assegurando que a informação seja acessível a todos os públicos, independentemente de suas necessidades.</p>
+
 
 ## Local onde o projeto será executado:
 
-<p>O projeto será executado de forma 100% online. Sendo apresentado ao público através das mídias sociais e streamings de música. </p>
+<p>O projeto será totalmente conduzido no ambiente online, sendo apresentado ao público por meio das plataformas de mídias sociais e serviços de streaming de música.</p>
 
 ## Roteiro de execução: lista em itens os passos a serem seguidos, data de início e de fim:
 
