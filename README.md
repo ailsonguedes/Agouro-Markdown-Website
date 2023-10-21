@@ -92,7 +92,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 ## Currículo do proponente:
 
 * Portfólio Nosllyah
-  <a href="./files/Nosllyah%20-%20Portifólio%20Musical%20(2023).pdf" target="_blank">[![Portfólio Nosllyah](./img/Nosllyah-Portifólio-Capa.png 'Portfólio Nosllyah')](./files/Nosllyah%20-%20Portifólio%20Musical%20(2023).pdf)</a>
+ [![Portfólio Nosllyah](./img/Nosllyah-Portifólio-Capa.png 'Portfólio Nosllyah{:target="_blank"}')](./files/Nosllyah%20-%20Portifólio%20Musical%20(2023).pdf)
 
 ## Currículo da equipe envolvida:
 
