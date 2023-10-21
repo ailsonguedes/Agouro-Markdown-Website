@@ -2,9 +2,12 @@
 	Nosllyah & Orí (Album 2024)
 </p>
 
+![Agouro Project](./img/Agouro%20Perfil.png "Agouro Perfil")
 >  ⚠️ 
 > Nenhuma informação sensível deve estar contida nesse site. Caso alguma informação dessa natureza se encontre disposta dentre essas informações, favor entre em contato com os responsáveis.
 >> Email: nosllyah.music@gmail.com
+>>
+>> WhatsApp: [(75) 99989-3923](https://wa.me/5575999893923?text=Ol%C3%A1%21+Pegue+o+seu+WhatsApp+na+GitPage+do+projeto+Agouro.)
 
 ## Resumo do Projeto:
 
