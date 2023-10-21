@@ -34,16 +34,60 @@
 
 ## Perfil do público a ser atingido pelo projeto:
 
+<p>A partir dos nossos levantamentos, acreditamos que a maior parte do público diretamente atigido por esse projeto sejam jovens-adultos, com suas idades entre 17 à 40 anos, com gosto musical direcionado a gêneros como: eletrônica (IDM, Electro-Experimental, Lo-Fi e afins), rock alternativo ou música experimental. Porém existe a grande possibilidade de se atingir ainda mais pessoas.</p> 
+<p>
+Além disso, por conta de trabalhos lançados anteriormente pelos produtores envolvidos, que já contam com um alcance internacional, o projeto pode também atingir um vasto público fora do país.
+</p>
+
 ## Metas: liste em itens cada atividade ou produto, quantidade e estimativa de público:
+
+1. Produzir um álbum de 8 faixas;
+
+2. Fazer um trabalho de resgate cultural acerca das lendas do recôncavo;
+
+3. Produzir seis vídeos tutoriais afim de fomentar o incentivo a produção musical;
+
+4. Gerar renda para os profissionais do recôncavo através da prestação de serviço.
+
 
 ## Informe como essas medidas de acessibilidade indicadas serão implementadas ou disponibilizadas de acordo com o projeto proposto:
 
+<p>Todo material de vídeo disponibilizado pelo projeto virá acompanhado de Legendas e/ou Intérprete de Libras.</p>
+
 ## Local onde o projeto será executado:
+
+<p>O projeto será executado de forma 100% online. Sendo apresentado ao público através das mídias sociais e streamings de música. </p>
 
 ## Roteiro de execução: lista em itens os passos a serem seguidos, data de início e de fim:
 
+* Pré-Produção:
+  1. Contratação de Equipe e Reunião de Planejamento Inicial | início 01/01/2024 - fim 31/01/2024.
+  2. Arte Conceitual | 01/01/2024 - fim 31/02/2024.
+  3. Roteiro & Storyboard | 01/01/2024 - fim 29/02/2024.
+
+* Produção:
+  1. Ilustração | 01/03/2024 - fim 31/08/2024.
+  2. Arte da Capa e Projeto Gráfico | 01/04/2024 - fim 31/05/2024.
+  3. Diagramação | 01/08/2024 - fim 30/09/2024.
+  4. Arte Final e Impressão | 01/09/2024 - fim 31/10/2024.
+
+* Pós-Produção:
+  1. Publicação | 01/10/2024 - fim 31/10/2024.
+  2. Promoção | 01/10/2024 - fim 31/12/2024.
+  3. Relatório Final | 01/12/2024 - fim 31/12/2024.
+  4. Prestação de Contas | 01/12/2024 - fim 31/12/2024.
+
+
 ## Equipe envolvida: Listar os nomes dos profissionais beneficiados diretamente com o projeto, com as informações: nome, função, CPF ou CNPJ, valor da remuneração, se pessoa negra, pessoa indígena ou pessoa com deficiência:
 >Exemplo: "1. Nome do profissional - Função - CPF/CNPJ - Valor da remuneração - Pessoa negra / Pessoa indígena ou Pessoa com deficiência."
+
+- Ailson Guedes Da Fonseca (Nosllyah) - Função: proponente, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
+
+- Dante José Mendes de Jesus Santana (Orí) - Função: produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
+
+- Ruanne Inácia Borba Baião - Função: Social Mídia  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx- Pessoa Negra
+
+- Fulano1 - Função: Design  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
 ## Estratégia de divulgação: apresente um plano de mídia em conformidade com o disposto no item 18 do Edital:
 
@@ -51,9 +95,12 @@
 
 ## Indique quando será a realização:
 
-## Indique o local de realização:
+<p>Entre o mês de Janeiro e o mês de Dezembro, do ano de 2024 (dois mil e vinte e quatro)</p>
 
----
+## Indique o local de realização:
+<p> Todo o projeto será realizado de forma online, tendo o material produzido, disponibilizado nas mídias sociais e nas principais plataformas de streaming de música.</p>
+
+- - -
 - - - 
 ## Outros Materiais:
 
