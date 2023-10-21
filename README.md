@@ -106,7 +106,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 - Ailson Guedes Da Fonseca (Nosllyah) - Função: proponente, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
-- Dante José Mendes de Jesus Santana (Orí) - Função: design, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
+- Dante José Mendes de Jesus Santana (Orí) - Função: design gráfico, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
 - Ruanne Inácia Borba Baião - Função: Social Mídia  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx- Pessoa Negra
   
@@ -239,6 +239,10 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 * [Boards Of Canadá - Music Has The Right To Children](https://open.spotify.com/intl-pt/album/6LZiNXaDvhzvnXUubVOmNU?si=mzYdm_VbS-uTv3779fnn9Q)
 
 * [Ziminino - Ziminino](https://open.spotify.com/intl-pt/album/3khJsBEfHTWO7XkwVoPbTQ?si=oEHpQXJETgy8M7WtNxVNwA)
+
+* [Juçara Marçal - Padê](https://open.spotify.com/intl-pt/album/3Az2EXCM5W1w14o4ev0uCU?si=AWE-bBiEStCFmAWEJZpLOw)
+
+* [Tool - 10,000 Days](https://open.spotify.com/intl-pt/album/1fvWYcbjuycyHpzNPH1Vfk?si=Xu7G4fQQRl2Lm7A_xM4E7w)
 
 
 ## Link do Edital:
