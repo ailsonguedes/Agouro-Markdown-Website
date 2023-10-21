@@ -170,6 +170,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 <p>Conceito e Estrutura: Cada vídeo terá um enfoque específico, revelando detalhes do processo de produção musical do álbum. O conceito subjacente é o de proporcionar transparência e envolver o público no processo criativo. A estrutura de cada vídeo incluirá:</p>
 
 ---
+
 1. Introdução: Apresentação do tópico a ser abordado no vídeo.
 
 2. Demonstração: Apresentação das ferramentas e programas são usados na produção musical.
@@ -177,6 +178,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 3. Bastidores: Breves vislumbres do dia-a-dia da produção e do ambiente de trabalho.
 
 4. Inclusão: Intérprete de Libras e/ou legendas serão incorporados para garantir que o conteúdo seja acessível a pessoas com deficiência auditiva.
+   
 ---
 
 <p>Acessibilidade: Uma característica fundamental dessa ação de contrapartida é a consideração da acessibilidade. Para tornar o material mais inclusivo, os vídeos serão acompanhados de intérpretes de Libras e/ou legendas. Isso permitirá que pessoas com deficiência auditiva desfrutem plenamente do conteúdo, garantindo que não sejam excluídas da experiência.</p>
