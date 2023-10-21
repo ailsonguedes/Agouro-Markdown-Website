@@ -53,7 +53,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 2. Fazer um trabalho de resgate cultural acerca das lendas do recôncavo;
 
-3. Produzir seis vídeos tutoriais afim de fomentar o incentivo a produção musical;
+3. Produzir seis vídeos tutoriais a fim de fomentar o incentivo a produção musical;
 
 4. Gerar renda para os profissionais do recôncavo através da prestação de serviço.
    
