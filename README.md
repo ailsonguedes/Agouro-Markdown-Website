@@ -2,7 +2,7 @@
 	Nosllyah & Orí (Album 2024)
 </p>
 
-![Agouro Project](./img/capa%20geral.png "Agouro Perfil")
+![Agouro Capa](./img/capa%20geral.png "Agouro Capa")
 
 >  ⚠️ 
 > Nenhuma informação sensível deve estar contida nesse site. Caso alguma informação dessa natureza se encontre disposta dentre essas informações, favor entre em contato com os responsáveis.
@@ -106,11 +106,9 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 - Ailson Guedes Da Fonseca (Nosllyah) - Função: proponente, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
-- Dante José Mendes de Jesus Santana (Orí) - Função: produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
+- Dante José Mendes de Jesus Santana (Orí) - Função: design, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
 - Ruanne Inácia Borba Baião - Função: Social Mídia  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx- Pessoa Negra
-
-- Fulano1 - Função: Design  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
   
 ---
 
