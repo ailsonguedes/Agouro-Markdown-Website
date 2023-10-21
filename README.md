@@ -89,6 +89,19 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 - Fulano1 - Função: Design  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
+## Currículo do proponente:
+
+* Portfólio Nosllyah
+  [![Portfólio Nosllyah](./img/Nosllyah-Portifólio-Capa.png 'Portfólio Nosllyah')](./files/Nosllyah%20-%20Portifólio%20Musical%20(2023).pdf)
+
+## Currículo da equipe envolvida:
+
+* Portfólio Orí
+  [![Portfólio Orí](./img/Dante-Orí-José-Portifólio-Capa.png 'Portfólio Orí')](./files/Portifólio%20-%20Dante%20José_removed.pdf)
+
+* Portfólio Ruanne
+  [![Portfólio Ruanne](./img/Ruanne-Baião-Portfólio-Capa.png 'Portfólio Ruanne')](./files/portfólio%20ruanne%20baião%20.pdf)
+
 ## Estratégia de divulgação: apresente um plano de mídia em conformidade com o disposto no item 18 do Edital:
 
 ## Descreva e detalhe a ação de contrapartida a ser desenvolvida, indicando público alvo, conceito, estrutura, etc:
