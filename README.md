@@ -19,6 +19,7 @@
 
 ## Objetivos:
 ---
+
 1. Gravar, mixar e masterizar um álbum de alta qualidade que incorpore elementos de diferentes gêneros musicais, demonstrando nossa criatividade e habilidade técnica.
 
 2. Exploração Artística: Explorar novos territórios musicais, desafiando convenções e criando uma experiência auditiva única para o público.
@@ -28,6 +29,7 @@
 4. Impacto Cultural: Contribuir para a diversidade musical e o enriquecimento cultural, elevando a música autoral a um novo patamar de reconhecimento e apreciação.
 
 5. Avaliação e Métricas: Estabelecer métricas de sucesso para avaliar o impacto do projeto, incluindo o número de streams e feedback da audiência.
+   
 ---
 
 ## Cronograma: 
@@ -43,6 +45,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 ## Metas: liste em itens cada atividade ou produto, quantidade e estimativa de público:
 
 ---
+
 1. Produzir um álbum de 8 faixas;
 
 2. Fazer um trabalho de resgate cultural acerca das lendas do recôncavo;
@@ -50,6 +53,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 3. Produzir seis vídeos tutoriais afim de fomentar o incentivo a produção musical;
 
 4. Gerar renda para os profissionais do recôncavo através da prestação de serviço.
+   
 ---
 
 ## Informe como essas medidas de acessibilidade indicadas serão implementadas ou disponibilizadas de acordo com o projeto proposto:
@@ -63,6 +67,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 ## Roteiro de execução: lista em itens os passos a serem seguidos, data de início e de fim:
 
 ---
+
 * Pré-Produção:
   1. Pesquisa, Desenvolvimento do Conceito e Planejamento Inicial | início 01/01/2024 - fim 31/01/2024.
   2. Composição das Faixas | 01/01/2024 - fim 31/03/2024.
@@ -80,12 +85,14 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
   2. Promoção e Distribuição | 01/11/2024 - fim 30/11/2024.
   3. Relatório Final | 01/12/2024 - fim 31/12/2024.
   4. Prestação de Contas | 01/12/2024 - fim 31/12/2024.
+   
 ---
 
 ## Equipe envolvida: Listar os nomes dos profissionais beneficiados diretamente com o projeto, com as informações: nome, função, CPF ou CNPJ, valor da remuneração, se pessoa negra, pessoa indígena ou pessoa com deficiência:
 >Exemplo: "1. Nome do profissional - Função - CPF/CNPJ - Valor da remuneração - Pessoa negra / Pessoa indígena ou Pessoa com deficiência."
 
 ---
+
 - Ailson Guedes Da Fonseca (Nosllyah) - Função: proponente, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
 - Dante José Mendes de Jesus Santana (Orí) - Função: produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
@@ -93,6 +100,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 - Ruanne Inácia Borba Baião - Função: Social Mídia  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx- Pessoa Negra
 
 - Fulano1 - Função: Design  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
+  
 ---
 
 ## Currículo do proponente:
