@@ -2,6 +2,10 @@
 	Nosllyah & Orí (Album 2024)
 </p>
 
+> [!WARNING] ⚠️ 
+> Nenhuma informação sensível deve estar contida nesse site. Caso alguma informação dessa natureza se encontre disposta dentre essas informações, favor entre em contato com os responsáveis.
+>> Email: nosllyah.music@gmail.com
+
 ## Resumo do Projeto:
 
 <p>O projeto Agouro, é uma iniciativa voltada para o desenvolvimento de um álbum musical com oito faixas. Este trabalho será realizado pelos músicos e produtores musicais Nosllyah (Ailson Guedes) e Orí (Dante José), utilizando influências da música eletrônica/experimental e do rock n´roll.</p> <p>Essa fusão pretende viabilizar a produção de um trabalho completamente novo, envolto em processos e descobertas que se comunicam com lendas do Recôncavo Baiano. Utilizando conceitos que permeiam lendas regionais e um particular universal contido nos trabalhos desses produtores, este álbum se propõe a vestir roupagem totalmente experimentalista, propondo uma mescla de ritmos e texturas, tão fortes e significativas em nosso território de identidade.</p>
