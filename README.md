@@ -24,6 +24,8 @@
 4. Impacto Cultural: Contribuir para a diversidade musical e o enriquecimento cultural, elevando a música autoral a um novo patamar de reconhecimento e apreciação.
 
 5. Avaliação e Métricas: Estabelecer métricas de sucesso para avaliar o impacto do projeto, incluindo o número de streams e feedback da audiência.o.
+6. 
+![Cronograma](./img/Cronograma.jpg)
 
 ## Perfil do público a ser atingido pelo projeto:
 
