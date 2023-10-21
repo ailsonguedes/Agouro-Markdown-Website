@@ -1,4 +1,3 @@
-# Agouro Projeto
 <p>
 	Nosllyah & Orí (Album 2024)
 </p>
