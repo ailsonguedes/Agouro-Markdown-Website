@@ -46,7 +46,9 @@
 
 ## Indique o local de realização:
 
-## Outros Materiais Textuais:
+---
+- - - 
+## Outros Materiais:
 
 <p>A música é uma forma poderosa de expressão artística, com o potencial de impactar positivamente a sociedade em que vivemos. Este projeto busca contribuir para o enriquecimento cultural e artístico, bem como para a diversificação da cena musical local e nacional.</p> <p>Inovação Artística: O álbum proposto buscará explorar novas fronteiras musicais e transcender os limites dos gêneros tradicionais. Isso promove a inovação artística e enriquece o cenário musical.</p>
 <p>Diversidade Cultural: Ao incorporar influências culturais variadas, o álbum contribuirá para a promoção da diversidade cultural e celebrará a riqueza da expressão artística global.</p>
