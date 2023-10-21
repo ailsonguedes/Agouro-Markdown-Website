@@ -2,7 +2,8 @@
 	Nosllyah & Orí (Album 2024)
 </p>
 
-![Agouro Project](./img/Agouro%20Perfil.png "Agouro Perfil")
+![Agouro Project](./img/capa%20geral.png "Agouro Perfil")
+
 >  ⚠️ 
 > Nenhuma informação sensível deve estar contida nesse site. Caso alguma informação dessa natureza se encontre disposta dentre essas informações, favor entre em contato com os responsáveis.
 >> Email: nosllyah.music@gmail.com
