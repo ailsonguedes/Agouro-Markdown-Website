@@ -61,21 +61,24 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 ## Roteiro de execução: lista em itens os passos a serem seguidos, data de início e de fim:
 
 * Pré-Produção:
-  1. Contratação de Equipe e Reunião de Planejamento Inicial | início 01/01/2024 - fim 31/01/2024.
-  2. Arte Conceitual | 01/01/2024 - fim 31/02/2024.
-  3. Roteiro & Storyboard | 01/01/2024 - fim 29/02/2024.
+  1. Pesquisa, Desenvolvimento do Conceito e Planejamento Inicial | início 01/01/2024 - fim 31/01/2024.
+  2. Composição das Faixas | 01/01/2024 - fim 31/03/2024.
+  3. Arte Conceitual e Demais Materiais Gráficos  | 01/02/2024 - fim 31/03/2024.
 
 * Produção:
-  1. Ilustração | 01/03/2024 - fim 31/08/2024.
-  2. Arte da Capa e Projeto Gráfico | 01/04/2024 - fim 31/05/2024.
-  3. Diagramação | 01/08/2024 - fim 30/09/2024.
-  4. Arte Final e Impressão | 01/09/2024 - fim 31/10/2024.
+  1. Gravação das Guias | 01/04/2024 - fim 31/05/2024.
+  2. Captação de Áudio e Montagem do Setup | 01/05/2024 - fim 30/07/2024.
+  3. Gravação Das Faixas | 01/07/2024 - fim 31/08/2024.
+  4. Gravação Das Vozes | 01/07/2024 - fim 31/08/2024
+  5. Mixagem | 01/08/2024 - fim 301/09/2024.
+
 
 * Pós-Produção:
-  1. Publicação | 01/10/2024 - fim 31/10/2024.
-  2. Promoção | 01/10/2024 - fim 31/12/2024.
+  1. Masterização | 01/09/2024 - fim 31/10/2024.
+  2. Promoção e Distribuição | 01/11/2024 - fim 30/11/2024.
   3. Relatório Final | 01/12/2024 - fim 31/12/2024.
   4. Prestação de Contas | 01/12/2024 - fim 31/12/2024.
+
 
 
 ## Equipe envolvida: Listar os nomes dos profissionais beneficiados diretamente com o projeto, com as informações: nome, função, CPF ou CNPJ, valor da remuneração, se pessoa negra, pessoa indígena ou pessoa com deficiência:
