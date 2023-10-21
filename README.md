@@ -18,7 +18,7 @@
 <p>O álbum proposto buscará explorar novas fronteiras musicais e transcender os limites dos gêneros tradicionais. Isso promove a inovação artística e enriquece o cenário musical. Ao incorporar influências culturais variadas, contribuirá para a promoção da diversidade cultural e celebrará a riqueza da expressão artística global. Além de tudo, o projeto também oferecerá oportunidades de desenvolvimento profissional para os artistas participantes.</p>
 
 ## Objetivos:
-
+---
 1. Gravar, mixar e masterizar um álbum de alta qualidade que incorpore elementos de diferentes gêneros musicais, demonstrando nossa criatividade e habilidade técnica.
 
 2. Exploração Artística: Explorar novos territórios musicais, desafiando convenções e criando uma experiência auditiva única para o público.
@@ -28,7 +28,8 @@
 4. Impacto Cultural: Contribuir para a diversidade musical e o enriquecimento cultural, elevando a música autoral a um novo patamar de reconhecimento e apreciação.
 
 5. Avaliação e Métricas: Estabelecer métricas de sucesso para avaliar o impacto do projeto, incluindo o número de streams e feedback da audiência.
-   
+---
+
 ## Cronograma: 
 ![Cronograma](./img/Cronograma.jpg)
 
@@ -41,6 +42,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 ## Metas: liste em itens cada atividade ou produto, quantidade e estimativa de público:
 
+---
 1. Produzir um álbum de 8 faixas;
 
 2. Fazer um trabalho de resgate cultural acerca das lendas do recôncavo;
@@ -48,7 +50,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 3. Produzir seis vídeos tutoriais afim de fomentar o incentivo a produção musical;
 
 4. Gerar renda para os profissionais do recôncavo através da prestação de serviço.
-
+---
 
 ## Informe como essas medidas de acessibilidade indicadas serão implementadas ou disponibilizadas de acordo com o projeto proposto:
 
@@ -60,6 +62,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 ## Roteiro de execução: lista em itens os passos a serem seguidos, data de início e de fim:
 
+---
 * Pré-Produção:
   1. Pesquisa, Desenvolvimento do Conceito e Planejamento Inicial | início 01/01/2024 - fim 31/01/2024.
   2. Composição das Faixas | 01/01/2024 - fim 31/03/2024.
@@ -72,18 +75,17 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
   4. Gravação Das Vozes | 01/07/2024 - fim 31/08/2024
   5. Mixagem | 01/08/2024 - fim 301/09/2024.
 
-
 * Pós-Produção:
   1. Masterização | 01/09/2024 - fim 31/10/2024.
   2. Promoção e Distribuição | 01/11/2024 - fim 30/11/2024.
   3. Relatório Final | 01/12/2024 - fim 31/12/2024.
   4. Prestação de Contas | 01/12/2024 - fim 31/12/2024.
-
-
+---
 
 ## Equipe envolvida: Listar os nomes dos profissionais beneficiados diretamente com o projeto, com as informações: nome, função, CPF ou CNPJ, valor da remuneração, se pessoa negra, pessoa indígena ou pessoa com deficiência:
 >Exemplo: "1. Nome do profissional - Função - CPF/CNPJ - Valor da remuneração - Pessoa negra / Pessoa indígena ou Pessoa com deficiência."
 
+---
 - Ailson Guedes Da Fonseca (Nosllyah) - Função: proponente, produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
 
 - Dante José Mendes de Jesus Santana (Orí) - Função: produtor musical, músico e compositor - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
@@ -91,6 +93,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 - Ruanne Inácia Borba Baião - Função: Social Mídia  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx- Pessoa Negra
 
 - Fulano1 - Função: Design  - CPF: xxx.xxx.xxx-xx - Valor da Remuneração: R$ x.xxx,xx - Pessoa Negra
+---
 
 ## Currículo do proponente:
 
@@ -114,6 +117,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 ### Estratégia de Mídia:
 
+---
 1. Campanha de Mídia Social (Duração: 1 mês, incluindo o mês de lançamento):
 
     * <p>  Criaremos e manteremos perfis em plataformas de mídia social relevantes, como Facebook, Instagram, Twitter e TikTok.</p>
@@ -157,9 +161,26 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
     * <p>Acompanharemos o desempenho das campanhas de mídia usando métricas de engajamento, como visualizações, compartilhamentos, curtidas e comentários.</p>
     * <p>Ajustaremos a estratégia com base nos dados para otimizar o plano de mídia.</p>
     * <p>É importante destacar que um plano de mídia é flexível e pode ser ajustado à medida que a situação evolui. Manter uma comunicação constante com os fãs e adaptar a estratégia com base nos resultados e nas oportunidades que surgirem é essencial.</p>
-
+---
 
 ## Descreva e detalhe a ação de contrapartida a ser desenvolvida, indicando público alvo, conceito, estrutura, etc:
+
+<p>A ação de contrapartida envolve o desenvolvimento de seis vídeos que oferecerão uma visão detalhada do processo de produção, destacando o cotidiano da criação musical para o álbum. Cada vídeo abordará aspectos específicos, como as ferramentas e programas de software utilizados na produção musical. Esses vídeos são destinados a fornecer uma experiência abrangente e informativa aos espectadores.</p>
+<p>Público-Alvo: O público-alvo para essa ação de contrapartida inclui os fãs do artista e aqueles interessados no processo criativo por trás da produção musical. Além disso, uma consideração importante é tornar o conteúdo acessível às pessoas com deficiência auditiva, promovendo a inclusão de uma audiência que muitas vezes é negligenciada por produções semelhantes.</p>
+<p>Conceito e Estrutura: Cada vídeo terá um enfoque específico, revelando detalhes do processo de produção musical do álbum. O conceito subjacente é o de proporcionar transparência e envolver o público no processo criativo. A estrutura de cada vídeo incluirá:</p>
+
+---
+1. Introdução: Apresentação do tópico a ser abordado no vídeo.
+
+2. Demonstração: Apresentação das ferramentas e programas são usados na produção musical.
+
+3. Bastidores: Breves vislumbres do dia-a-dia da produção e do ambiente de trabalho.
+
+4. Inclusão: Intérprete de Libras e/ou legendas serão incorporados para garantir que o conteúdo seja acessível a pessoas com deficiência auditiva.
+---
+
+<p>Acessibilidade: Uma característica fundamental dessa ação de contrapartida é a consideração da acessibilidade. Para tornar o material mais inclusivo, os vídeos serão acompanhados de intérpretes de Libras e/ou legendas. Isso permitirá que pessoas com deficiência auditiva desfrutem plenamente do conteúdo, garantindo que não sejam excluídas da experiência.</p>
+<p>Em resumo, a ação de contrapartida consiste na criação de seis vídeos informativos, oferecendo um olhar detalhado sobre o processo de produção musical do álbum. A inclusão de intérpretes de Libras e/ou legendas demonstra um compromisso com a acessibilidade, garantindo que o conteúdo seja acessível a um público diversificado e reforçando a abordagem inclusiva da produção.</p>
 
 ## Indique quando será a realização:
 
