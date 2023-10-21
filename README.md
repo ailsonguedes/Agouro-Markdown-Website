@@ -97,7 +97,7 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 ## Currículo da equipe envolvida:
 
 * Portfólio Orí
-  [![Portfólio Orí](./img/Dante-Orí-José-Portifólio-Capa.png 'Portfólio Orí')](./files/Portifólio%20-%20Dante%20José_removed.pdf})
+  [![Portfólio Orí](./img/Dante-Orí-José-Portifólio-Capa.png 'Portfólio Orí')](./files/Portifólio%20-%20Dante%20José.pdf)
 
 * Portfólio Ruanne
   [![Portfólio Ruanne](./img/Ruanne-Baião-Portfólio-Capa.png 'Portfólio Ruanne')](./files/portfólio%20ruanne%20baião%20.pdf)
