@@ -27,7 +27,7 @@
 
 4. Impacto Cultural: Contribuir para a diversidade musical e o enriquecimento cultural, elevando a música autoral a um novo patamar de reconhecimento e apreciação.
 
-5. Avaliação e Métricas: Estabelecer métricas de sucesso para avaliar o impacto do projeto, incluindo o número de streams e feedback da audiência.o.
+5. Avaliação e Métricas: Estabelecer métricas de sucesso para avaliar o impacto do projeto, incluindo o número de streams e feedback da audiência.
    
 ## Cronograma: 
 ![Cronograma](./img/Cronograma.jpg)
@@ -104,14 +104,66 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 
 ## Estratégia de divulgação: apresente um plano de mídia em conformidade com o disposto no item 18 do Edital:
 
+### Objetivos:
+<p>Aumentar o reconhecimento do artista e do álbum.</p>
+<p>Aumentar o número de reproduções do álbum.</p>
+<p>Promover o engajamento do público.</p>
+
+### Estratégia de Mídia:
+
+1. Campanha de Mídia Social (Duração: 1 mês, incluindo o mês de lançamento):
+
+    * <p>  Criaremos e manteremos perfis em plataformas de mídia social relevantes, como Facebook, Instagram, Twitter e TikTok.</p>
+    * <p>Publicaremos regularmente teasers, bastidores e outros conteúdos relacionados ao álbum durante este período.</p>
+    * <p>Utilizaremos anúncios pagos segmentados para aumentar o alcance e a visibilidade.</p>
+
+2. Vídeos e Músicas (Duração: durante o lançamento):
+
+    * <p>Criaremos vídeos musicais atraentes e os promoveremos no YouTube e outras plataformas de compartilhamento de vídeo.</p>
+    * <p>Lançaremos singles antes do álbum completo para criar expectativa e antecipação.</p>
+    * <p>Divulgaremos vídeos dos bastidores da produção do projeto.</p>
+
+3. Relações Públicas (Duração: 2-3 meses antes do lançamento):
+
+    * <p>Enviaremos comunicados de imprensa para blogs, revistas e portais de notícias de música.</p>
+    * <p>Agendaremos entrevistas em programas de rádio e podcasts.</p>
+    * <p>Estaremos atentos a oportunidades de cobertura na mídia local e nacional.</p>
+
+4. Parcerias e Colaborações (Duração: durante o lançamento):
+
+    * <p>Estudaremos a possibilidade de colaborar com outros artistas ou bandas para promover mutuamente o álbum.</p>
+
+5. Publicidade Online (Duração: 1-2 meses antes do lançamento):
+
+    * <p>Executaremos campanhas de publicidade online, incluindo anúncios no Google AdWords e em redes sociais.</p>
+    * <p>Segmentação por demografia e interesses musicais para alcançar seu público-alvo.</p>
+
+6. Lançamento e Evento de Lançamento (Data do lançamento):
+   
+    * <p>Realizaremos um evento de lançamento do álbum, seja ele virtual.</p>
+    * <p>Transmitiremos ao vivo o evento nas redes sociais e interagiremos com os fãs durante o lançamento.</p>
+
+7. Acompanhamento Pós-Lançamento (Duração: após o lançamento):
+
+    * <p>Manteremos o engajamento com os fãs por meio de interações nas redes sociais e e-mails.</p>
+    * <p>Continuaremos a promover o álbum por meio de conteúdo adicional, bastidores e remixes.</p>
+
+8. Análise de Resultados (Duração: em andamento):
+
+
+    * <p>Acompanharemos o desempenho das campanhas de mídia usando métricas de engajamento, como visualizações, compartilhamentos, curtidas e comentários.</p>
+    * <p>Ajustaremos a estratégia com base nos dados para otimizar o plano de mídia.</p>
+    * <p>É importante destacar que um plano de mídia é flexível e pode ser ajustado à medida que a situação evolui. Manter uma comunicação constante com os fãs e adaptar a estratégia com base nos resultados e nas oportunidades que surgirem é essencial.</p>
+
+
 ## Descreva e detalhe a ação de contrapartida a ser desenvolvida, indicando público alvo, conceito, estrutura, etc:
 
 ## Indique quando será a realização:
 
-<p>Entre o mês de Janeiro e o mês de Dezembro, do ano de 2024 (dois mil e vinte e quatro)</p>
+<p>Entre o mês de Janeiro e o mês de Dezembro, do ano de 2024 (dois mil e vinte e quatro).</p>
 
 ## Indique o local de realização:
-<p> Todo o projeto será realizado de forma online, tendo o material produzido, disponibilizado nas mídias sociais e nas principais plataformas de streaming de música.</p>
+<p>Todo o projeto será realizado de forma online, tendo o material produzido, disponibilizado nas mídias sociais e nas principais plataformas de streaming de música.</p>
 
 - - -
 - - - 
@@ -123,11 +175,14 @@ Além disso, por conta de trabalhos lançados anteriormente pelos produtores env
 <p>Desenvolvimento de Carreira: O projeto também oferecerá oportunidades de desenvolvimento profissional para os artistas, incluindo colaborações com outros músicos, produtores e profissionais da indústria.</p>
 <p>Esses são alguns dos principais pontos pelos quais acreditamos que o projeto é relevante e merece apoio para sua realização.</p>
 
-A música é uma forma poderosa de expressão artística, com o potencial de impactar positivamente a sociedade em que vivemos. Este projeto busca contribuir para o enriquecimento cultural e artístico, bem como para a diversificação da cena musical local e nacional.
+<p>A música é uma forma poderosa de expressão artística, com o potencial de impactar positivamente a sociedade em que vivemos. Este projeto busca contribuir para o enriquecimento cultural e artístico, bem como para a diversificação da cena musical local e nacional.</p>
 
 1. Inovação Artística: O álbum proposto buscará explorar novas fronteiras musicais e transcender os limites dos gêneros tradicionais. Isso promove a inovação artística e enriquece o cenário musical.
+   
 2. Diversidade Cultural: Ao incorporar influências culturais variadas, o álbum contribuirá para a promoção da diversidade cultural e celebrará a riqueza da expressão artística global.
+   
 3. Potencial de Impacto: A música tem o poder de inspirar, unir e emocionar as pessoas. Este álbum tem o potencial de impactar positivamente os ouvintes, proporcionando uma experiência musical única.
+   
 4. Desenvolvimento de Carreira: O projeto também oferecerá oportunidades de desenvolvimento profissional para os artistas, incluindo colaborações com outros músicos, produtores e profissionais da indústria.
 
 ## Referências Musicais:
@@ -139,3 +194,11 @@ A música é uma forma poderosa de expressão artística, com o potencial de imp
 * [Teebs - Collections 01](https://open.spotify.com/intl-pt/album/6MfmIuNJmgLZ0kGE5ot8vi?si=pJtUu80tTcKdmOXsk6Ak0A)
 
 * [Boards Of Canadá - Music Has The Right To Children](https://open.spotify.com/intl-pt/album/6LZiNXaDvhzvnXUubVOmNU?si=mzYdm_VbS-uTv3779fnn9Q)
+
+* [Ziminino - Ziminino](https://open.spotify.com/intl-pt/album/3khJsBEfHTWO7XkwVoPbTQ?si=oEHpQXJETgy8M7WtNxVNwA)
+
+
+## Link do Edital:
+
+* Link: https://prosas.com.br/editais/14130-apoio-as-artes-lia-da-silveira
+
