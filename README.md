@@ -2,7 +2,7 @@
 	Nosllyah & Orí (Album 2024)
 </p>
 
-## Status: 🟡 - Em Análise
+## Status: 🟢 - Enviado
 
 ![Agouro Capa](./img/capa%20geral.png "Agouro Capa")
 
